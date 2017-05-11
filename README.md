@@ -1,2 +1,3 @@
 # hello-world
-Silly tutorial
+This is a silly tutorial. 
+There is no interesting content here.
